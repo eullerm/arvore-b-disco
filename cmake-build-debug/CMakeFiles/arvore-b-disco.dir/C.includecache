@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/arvore_b.c
+limits.h
+-
+stdio.h
+-
+arvore_b.h
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/arvore_b.h
+metadados.h
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/metadados.h
+no.h
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/no.h
+
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/arvore_b.h
+
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/cliente.h
+stdio.h
+-
+
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/metadados.h
+stdio.h
+-
+
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/no.h
+stdio.h
+-
+cliente.h
+C:/Users/eulle/CLionProjects/AulaED/arvore-b-disco/cliente.h
+
